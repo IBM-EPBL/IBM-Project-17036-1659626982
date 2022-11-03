@@ -20,7 +20,7 @@ Team member : VIJAYALAKSHIMI S
 🎯 **Pre-Requisites** 
 
 
-Anaconda (IDLE / Spyder / PyCharm)(Python 3.7)
+* Anaconda (IDLE / Spyder / PyCharm)(Python 3.7)
 
 CNN
 
