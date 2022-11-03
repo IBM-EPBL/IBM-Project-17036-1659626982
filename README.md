@@ -1,13 +1,16 @@
 
-TEAM IBM-Project-17036-1659626982
+IBM-Project-17036-1659626982
 Real-Time Communication System Powered by AI for Specially Abled
 
 👩‍👦**Technical Archiecture**
 
 
 NAVANIP PRIYA B
+
 SNEHHA S
+
 SIVAKAMI R
+
 VIJAYALAKSHIMI S
 
 🎯 **Pre-Requisites** 
@@ -15,21 +18,15 @@ VIJAYALAKSHIMI S
 
 Anaconda (IDLE / Spyder / PyCharm)(Python 3.7)
 
-
 CNN
-
 
 IBM Cloud
 
-
 IBM Watson Studio
-
 
 IBM Cloudant DB
 
-
 Deep Learning
-
 
 Python-Flask
 
