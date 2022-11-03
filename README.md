@@ -1,19 +1,21 @@
 
 **IBM-Project-17036-1659626982**
 
+Team ID : PNT2022TMID13334
+
 # **Real-Time Communication System Powered by AI for Specially Able**
 
 
 👩‍👦**TEAM**
 
+Team Leader : NAVANIP PRIYA B
 
-NAVANIP PRIYA B
+Team member : SNEHHA S
 
-SNEHHA S
+Team member : SIVAKAMI R
 
-SIVAKAMI R
+Team member : VIJAYALAKSHIMI S
 
-VIJAYALAKSHIMI S
 
 🎯 **Pre-Requisites** 
 
