@@ -22,17 +22,17 @@ Team member : VIJAYALAKSHIMI S
 
 * Anaconda (IDLE / Spyder / PyCharm)(Python 3.7)
 
-CNN
+* CNN
 
-IBM Cloud
+* IBM Cloud
 
-IBM Watson Studio
+* IBM Watson Studio
 
-IBM Cloudant DB
+* IBM Cloudant DB
 
-Deep Learning
+* Deep Learning
 
-Python-Flask
+* Python-Flask
 
 ❓**Problem Statement**
 
