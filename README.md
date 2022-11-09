@@ -3,7 +3,7 @@
 
 Team ID : PNT2022TMID13334
 
-# **Real-Time Communication System Powered by AI for Specially Able**
+# **Real-Time Communication System Powered by AI for Specially Abled**
 
 
 👩‍👦**TEAM**
