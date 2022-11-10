@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to top,rgba(0,0,0,0.3) ,rgba(0, 0, 0, 0.6)),url(../img/artificial-intelligence-machine-learning-ai-data-deep-learning-for-future-technology-artwork-mining-isometric-neural-network-machine-programming-and-responsive-web-banner-illustration-vector.jpg);
+      background-size:cover;
+      background-position:top;
+      background-repeat: no-repeat;
+      margin: 0;
+     height: 100vh;
+      overflow:hidden;
+          padding:0;
+      text-align: center;
+  }
+  .myvideo {
+      background-color: floralwhite;
+      margin-top: 10vh;
+      align-content: center;
+  }
+  .title{ 
+      text-align: center;
+      color: white;
+      margin-top: 10vh;
+      
+  }
+  
+  h2{
+      color: white;
+      text-decoration: none;
+      font-size: 25px
+      
+  }
+  a{
+      color: white;
+      font-size: 20px;
+  }
+  a:hover{
+      transform: scale(1.1);
+      transition: transform 0.3s;
+      transition-duration: transform 0.2s;
+  }
+  p{
+      color: aliceblue;
+      align-content: center;
+      margin: 7vw;
+      font-size: 22px
+  }
