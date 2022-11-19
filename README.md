@@ -49,5 +49,6 @@ The project aims to develop a system that converts the sign language into a huma
 🏳**Technical Architecture**
 
 
-![image](https://user-images.githubusercontent.com/113359596/199245854-e18d0440-5400-4a78-bc25-66e861965e33.png)
+![image](https://user-images.githubusercontent.com/113359596/202839618-610aa60d-f801-4505-809c-ffc3ef902268.png)
+
 
